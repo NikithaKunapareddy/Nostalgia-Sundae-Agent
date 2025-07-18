@@ -40,7 +40,7 @@ Welcome to **Nostalgia Sundae Agent** — the world’s first chat agent with a 
    ```
 2. **Test the Magic:**
    ```bash
-   python icecream_test_script.py
+   python memorymuse_test_script.py
    ```
 3. **Watch as the agent remembers *just* when you need it most!**
 
@@ -80,7 +80,7 @@ Bot: Maybe a scoop of your favorite ice cream would help right now.
 
 ## 🧪 Testing
 
-Run `icecream_test_script.py` to see:
+Run `memorymuse_test_script.py` to see:
 - The agent *not* recalling your preferences during happy or unrelated chats
 - The agent *proactively* recalling your comfort when you’re down
 - Clear, visually separated conversation turns for easy demoing
@@ -90,7 +90,7 @@ Run `icecream_test_script.py` to see:
 ## 📦 Repo Contents
 
 - `main.py` — The Sundae Agent’s brain
-- `icecream_test_script.py` — Demo & test script
+- `memorymuse_test_script.py` — Demo & test script
 - `README.md` — (This file!)
 
 ---
